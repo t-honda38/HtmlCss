@@ -2,7 +2,7 @@
     width: 1200px;
     height: auto;
     margin: 0 auto 0 auto;
-    background-color: #ffffff;
+    background-color: #FFDAB9;
     overflow: hidden;
 }
 
@@ -19,7 +19,7 @@
     margin: 0px 50px;
 }
 #wrapper #info {
-    float: right;;
+    float: left;;;
     width: 800px;
     height: 300px;
     margin: 20px 0 30px 30px;
@@ -30,13 +30,14 @@
     line-height: 50px;
     margin: 0;
     padding: 0 0 0 10px;
-    color: #92e5fe;
-    background-color: #28a6cc;
+    color: #000080;
+    background-color: #00FF00;
 }
 #wrapper #info div {
     width: 798px;
     height: 249px;
     border: 1px solid #408ca3;
+    background-color: #FFDAB9;
 }
 #wrapper #info div p {
     font-size: 23px;
@@ -45,10 +46,11 @@
 }
 
 #wrapper #category {
-    float: left;
+    float: right;;
     width: 150px;
-    margin: 20px 100px 30px 0;
+    margin: 20px 100px 78px 0;
     border: 1px solid #408ca3;
+    background-color: #FFDAB9;
 }
 #wrapper #category li {
     width: 150px;
